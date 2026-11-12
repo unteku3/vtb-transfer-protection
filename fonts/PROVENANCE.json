@@ -1,0 +1,37 @@
+{
+  "family": "PT Root UI",
+  "designer": "Vitaly Kuzmin",
+  "copyright": "Paratype Inc / Paratype Ltd, 2018",
+  "license": "SIL Open Font License 1.1",
+  "publisher": "https://www.paratype.ru/fonts/pt/pt-root-ui",
+  "publisher_statement": "https://info.paratype.ru/pt-root-ui/",
+  "mirror": "https://github.com/mikejlee/PT-Root-UI",
+  "mirror_commit": "1b125ad90d9e0596b7bfe9873bd80f3bba9439b4",
+  "note": "Licensed fallback for the prototype; not Omega UI. Files redistributed unchanged from the public mirror.",
+  "files": [
+    {
+      "file": "PT-Root-UI_Regular.woff2",
+      "source": "https://raw.githubusercontent.com/mikejlee/PT-Root-UI/1b125ad90d9e0596b7bfe9873bd80f3bba9439b4/Fonts/PT-Root-UI_Regular/PT-Root-UI_Regular.woff2",
+      "sha256": "819f0cef34b244818fd12f889893b482d16f16a6e4a376ba0773f415122d81ff",
+      "bytes": 52032
+    },
+    {
+      "file": "PT-Root-UI_Medium.woff2",
+      "source": "https://raw.githubusercontent.com/mikejlee/PT-Root-UI/1b125ad90d9e0596b7bfe9873bd80f3bba9439b4/Fonts/PT-Root-UI_Medium/PT-Root-UI_Medium.woff2",
+      "sha256": "c9b0c3ccb2c5fb82b3b1fa9584d05bf2e6ce508ec150eef679a406c886ebddcf",
+      "bytes": 52320
+    },
+    {
+      "file": "PT-Root-UI_Bold.woff2",
+      "source": "https://raw.githubusercontent.com/mikejlee/PT-Root-UI/1b125ad90d9e0596b7bfe9873bd80f3bba9439b4/Fonts/PT-Root-UI_Bold/PT-Root-UI_Bold.woff2",
+      "sha256": "7e1db4a447df3c7ae25e40870cef27d1989c00bfaaed23860633c1f860f5ccca",
+      "bytes": 52936
+    },
+    {
+      "file": "OFL.txt",
+      "source": "https://raw.githubusercontent.com/mikejlee/PT-Root-UI/1b125ad90d9e0596b7bfe9873bd80f3bba9439b4/OFL.txt",
+      "sha256": "5dc19056b5750d2b34017a8a858a7eaa699b50ea7c96ae4dbaa7895724975d21",
+      "bytes": 4527
+    }
+  ]
+}
